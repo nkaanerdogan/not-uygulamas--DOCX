@@ -1,1 +1,2 @@
 cd: dizin degistirme 
+git status: durum kontrolu 
